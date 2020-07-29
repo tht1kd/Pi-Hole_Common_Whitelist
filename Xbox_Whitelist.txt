@@ -5,3 +5,5 @@ pihole -w client-s.gateway.messenger.live.com
 pihole -w xbox.ipv6.microsoft.com device.auth.xboxlive.com www.msftncsi.com title.mgt.xboxlive.com xsts.auth.xboxlive.com title.auth.xboxlive.com ctldl.windowsupdate.com attestation.xboxlive.com xboxexperiencesprod.experimentation.xboxlive.com xflight.xboxlive.com cert.mgt.xboxlive.com xkms.xboxlive.com def-vef.xboxlive.com notify.xboxlive.com help.ui.xboxlive.com licensing.xboxlive.com eds.xboxlive.com www.xboxlive.com v10.vortex-win.data.microsoft.com settings-win.data.microsoft.com
 pihole -w v10.vortex-win.data.microsoft.com
 pihole -w v20.vortex-win.data.microsoft.com
+pihole -w vortex.data.microsoft.com
+pihole -w title.mgt.xboxlive.com

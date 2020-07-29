@@ -1,3 +1,5 @@
 pihole -w prod.telemetry.ros.rockstargames.com
 pihole -w tracking.epicgames.com
 pihole -w gfwsl.geforce.com
+pihole -w heartbeat.dm.origin.com
+pihole -w store.steampowered.com
