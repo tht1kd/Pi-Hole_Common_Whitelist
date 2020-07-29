@@ -1,0 +1,4 @@
+pihole -w itunes.apple.com
+pihole -w s.mzstatic.com
+pihole -w appleid.apple.com
+pihole -w captive.apple.com gsp1.apple.com www.apple.com www.appleiphonecell.com

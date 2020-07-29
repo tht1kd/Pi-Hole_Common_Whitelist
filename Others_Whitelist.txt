@@ -1,0 +1,1 @@
+pihole -w imagesak.secureserver.net

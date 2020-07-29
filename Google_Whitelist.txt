@@ -1,0 +1,11 @@
+pihole -w clients4.google.com 
+pihole -w clients2.google.com
+pihole -w s.youtube.com 
+pihole -w video-stats.l.google.com
+pihole -w android.clients.google.com
+pihole -w reminders-pa.googleapis.com firestore.googleapis.com
+pihole -w googleapis.l.google.com
+pihole -w dl.google.com
+pihole -w android.clients.google.com
+pihole -w connectivitycheck.android.com android.clients.google.com clients3.google.com connectivitycheck.gstatic.com
+pihole -w appspot-preview.l.google.com

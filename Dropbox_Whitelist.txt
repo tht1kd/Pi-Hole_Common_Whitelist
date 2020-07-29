@@ -1,0 +1,1 @@
+pihole -w dl.dropboxusercontent.com ns1.dropbox.com ns2.dropbox.com

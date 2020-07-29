@@ -1,0 +1,1 @@
+pihole -w 79423.analytics.edgekey.net

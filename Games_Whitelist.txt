@@ -1,0 +1,3 @@
+pihole -w prod.telemetry.ros.rockstargames.com
+pihole -w tracking.epicgames.com
+pihole -w gfwsl.geforce.com

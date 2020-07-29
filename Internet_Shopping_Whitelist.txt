@@ -1,0 +1,3 @@
+pihole -w assets.adobedtm.com
+pihole -w nexus.ensighten.com
+pihole -w chevrolet.com

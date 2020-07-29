@@ -1,0 +1,1 @@
+pihole -w spclient.wg.spotify.com apresolve.spotify.com
