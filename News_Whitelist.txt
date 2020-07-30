@@ -1,2 +1,3 @@
 pihole -w delivery.vidible.tv img.vidible.tv videos.vidible.tv edge.api.brightcove.com cdn.vidible.tv
 pihole -w widget-cdn.rpxnow.com
+pihole -w 9to5google.com
